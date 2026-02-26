@@ -8,3 +8,5 @@
 - bear-notes
 
 - summarize
+
+- web-design-guidelines
