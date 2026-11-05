@@ -38,6 +38,7 @@ metadata:
 
 ## 按需阅读
 
+- 做界面前：[references/design.md](references/design.md)
 - 写界面、命令行、文件监听或构建脚本前：[references/pitfalls.md](references/pitfalls.md)
 - 发版、写 README 前：[references/release.md](references/release.md)
 - 面板对照图和图标脚本的写法：参考 [kawari](https://github.com/dogxii/kawari) 的 `scripts/snapshot` 与 `scripts/icon`
